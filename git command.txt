@@ -1,0 +1,36 @@
+If new repository: [1st time giting]
+_____________________________________
+
+workflow: initialization > add > commit > link repository > push
+
+
+How to:
+
+0.Initialization : git init
+
+1.add :            git add *
+
+2.Commit :         git commit -m "commit name"
+
+3.link repository: paste the given command from github [example: git remote add origin https://github.com/Asad-cuet/how-to-git.git]
+
+4.Push:            git push -u origin master
+
+
+
+
+If old repository: [2nd or more time giting]
+____________________________________________
+
+workflow: initialization > add > commit > > push
+
+
+How to:
+
+0.Initialization : git init
+
+1.add :            git add -i   [then-> 2 for updated file   ,  4 for new file  , 7 for quite]
+
+2.Commit :         git commit -m "commit name"
+
+3.Push:            git push -u origin master
