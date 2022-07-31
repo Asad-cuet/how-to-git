@@ -29,8 +29,15 @@ How to:
 
 0.Initialization : git init
 
-1.add :            git add -i   [then-> 2 for updated file   ,  4 for new file  , 7 for quite]
+1.add :            git add -i   [then-> 2 for updated file -> *   ,  4 for new file -> *  , 7 for quite]
 
 2.Commit :         git commit -m "commit name"
 
 3.Push:            git push -u origin master
+
+
+
+How to clone a repository from github to your PC:
+________________________________________________
+
+command: git clone repository-link
